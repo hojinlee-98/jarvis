@@ -89,3 +89,4 @@ zcat *.gz > hg19_jarvis.txt
 rm -rf *.gz
 
 /ycga-gpfs/scratch60/lifton/jc2545/scripts/index_annovar.pl hg19_jarvis.txt
+```
