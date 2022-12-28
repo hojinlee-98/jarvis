@@ -1,7 +1,9 @@
 # jarvis
 this repository includes scripts for making jarvis db that are calculated for pathogenicity of noncoding regions.
 
-## OVERVIEW
+## Overview
+(https://github.com/astrazeneca-cgr-publications/JARVIS)
+
 ![image](https://user-images.githubusercontent.com/121307215/209797535-353c99bb-c344-4a62-84f7-0fa4efeac4dd.png)
 
 
